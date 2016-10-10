@@ -1,0 +1,2 @@
+1.git merge branch-name
+合并branch-name到当前分支
