@@ -1,0 +1,2 @@
+1.如何让本地分支和远程分支相关联
+git branch --set-upstream name origin/name
